@@ -1,0 +1,24 @@
+# file
+.DS_Store
+*.wav
+*.log
+
+# cache
+*.pyc
+__pycache__
+
+# directory (local)
+csv
+ffmpeg_sources
+harmonic
+image_cache
+meta
+model
+music
+openSMILE-2.1.0
+percussive
+similarity
+test
+wav
+
+
